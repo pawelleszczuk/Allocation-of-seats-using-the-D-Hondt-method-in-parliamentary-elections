@@ -16,4 +16,4 @@
    The input file was created using real data (but I changed the names of the candidates; the rest is unchanged) from the 2019 elections to the Sejm of the Republic of Poland from the electoral district No. 24 Bialystok.
 (results and more here: https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/sejm/okr/24)
 
-5. All tables (pre-assigned file extension is .csv) and summary of election results (here is .txt) can be exported to external files. They will be exported to the project's path.
+5. All tables (pre-assigned file extension is .csv) and summary of election results (here is .txt) can be exported to external files. They will be exported to the project's path. You only need to enter the filename without the extension.
