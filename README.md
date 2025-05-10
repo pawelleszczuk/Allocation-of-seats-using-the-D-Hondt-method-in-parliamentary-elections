@@ -1,5 +1,5 @@
 # Allocation-of-seats-using-the-D-Hondt-method-in-parliamentary-elections
-# My first a bit bigger Java project, where I wanted to practice the basics of programming. In retrospect (August 2024), I see that it does not follow best practices (clean code, SOLID). Nevertheless, I leave it in the repository so that my development in programming can be seen.
+# My first a bit bigger Java project, where I wanted to practice the basics of programming. In retrospect, I see that it does not follow best practices (clean code, SOLID). Nevertheless, I leave it in the repository so that my development in programming can be seen.
 
 1. At the beginning enter the input file name with its extension (my file is input.csv). File must be in the project's path.
 
